@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Agenda for Act 3: HTML, XML, CSS, JavaScript. No DTD Required-->
+<Characters>
+
+    <Character id = "0001">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png</Icon>
+        <Name>Amber</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Lepus.png</ConstellationIcon>
+            <ConstellationName>Lepus</ConstellationName>
+        </Constellation>
+        <Birthday>August 10</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0002">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png</Icon>
+        <Name>Barbara</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/6/64/Crater.png</ConstellationIcon>
+            <ConstellationName>Crater</ConstellationName>
+        </Constellation>
+        <Birthday>July 5</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0003">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png</Icon>
+        <Name>Beidou</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/53/Victor_Mare.png</ConstellationIcon>
+            <ConstellationName>Victor Mare</ConstellationName>
+        </Constellation>
+        <Birthday>February 14</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0004">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png</Icon>
+        <Name>Bennett</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Rota_Calamitas.png</ConstellationIcon>
+            <ConstellationName>Rota Calamitas</ConstellationName>
+        </Constellation>
+        <Birthday>February 29</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0005">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png</Icon>
+        <Name>Chongyun</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/6/61/Nubis_Caesor.png</ConstellationIcon>
+            <ConstellationName>Nubis Caesor</ConstellationName>
+        </Constellation>
+        <Birthday>September 7</Birthday>
+        <Version>1.0</Version>
+    </Character>
+    
+    <Character id = "0006">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png</Icon>
+        <Name>Diluc</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Noctua.png</ConstellationIcon>
+            <ConstellationName>Noctua</ConstellationName>
+        </Constellation>
+        <Birthday>April 30</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0007">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png</Icon>
+        <Name>Fischl</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Corvus.png</ConstellationIcon>
+            <ConstellationName>Corvus</ConstellationName>
+        </Constellation>
+        <Birthday>May 27</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0008">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png</Icon>
+        <Name>Jean</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/58/Leo_Minor.png</ConstellationIcon>
+            <ConstellationName>Leo Minor</ConstellationName>
+        </Constellation>
+        <Birthday>March 14</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0009">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png</Icon>
+        <Name>Kaeya</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Pavo_Ocellus.png</ConstellationIcon>
+            <ConstellationName>Pavo Ocellus</ConstellationName>
+        </Constellation>
+        <Birthday>November 30</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0010">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png</Icon>
+        <Name>Keqing</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Trulla_Cementarii.png</ConstellationIcon>
+            <ConstellationName>Trulla Cementarii</ConstellationName>
+        </Constellation>
+        <Birthday>November 20</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0011">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png</Icon>
+        <Name>Lisa</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Tempus_Fugit.png</ConstellationIcon>
+            <ConstellationName>Tempus Fugit</ConstellationName>
+        </Constellation>
+        <Birthday>June 9</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0012">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png</Icon>
+        <Name>Mona</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/79/Astrolabos.png</ConstellationIcon>
+            <ConstellationName>Astrolabos</ConstellationName>
+        </Constellation>
+        <Birthday>August 31</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0013">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png</Icon>
+        <Name>Ningguang</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/da/Opus_Aequilibrium.png</ConstellationIcon>
+            <ConstellationName>Opus Aequilibrium</ConstellationName>
+        </Constellation>
+        <Birthday>August 26</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0014">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png</Icon>
+        <Name>Noelle</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/01/Parma_Cordis.png</ConstellationIcon>
+            <ConstellationName>Parma Cordis</ConstellationName>
+        </Constellation>
+        <Birthday>March 21</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0015">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png</Icon>
+        <Name>Qiqi</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Pristina_Nola.png</ConstellationIcon>
+            <ConstellationName>Pristina Nola</ConstellationName>
+        </Constellation>
+        <Birthday>March 3</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0016">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png</Icon>
+        <Name>Razor</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/45/Lupus_Minor.png</ConstellationIcon>
+            <ConstellationName>Lupus Minor</ConstellationName>
+        </Constellation>
+        <Birthday>September 9</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0017">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png</Icon>
+        <Name>Sucrose</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Ampulla.png</ConstellationIcon>
+            <ConstellationName>Ampulla</ConstellationName>
+        </Constellation>
+        <Birthday>November 26</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0018">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png</Icon>
+        <Name>Aether</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon></ElementIcon>
+            <ElementName>None</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon></RegionIcon>
+            <RegionName>None</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Viator.png</ConstellationIcon>
+            <ConstellationName>Viator</ConstellationName>
+        </Constellation>
+        <Birthday>Player's Birthday</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0019">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Lumine_Icon.png</Icon>
+        <Name>Lumine</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon></ElementIcon>
+            <ElementName>None</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon></RegionIcon>
+            <RegionName>None</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/29/Viatrix.png</ConstellationIcon>
+            <ConstellationName>Viatrix</ConstellationName>
+        </Constellation>
+        <Birthday>Player's Birthday</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0020">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png</Icon>
+        <Name>Venti</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Carmen_Dei.png</ConstellationIcon>
+            <ConstellationName>Carmen Dei</ConstellationName>
+        </Constellation>
+        <Birthday>June 16</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0021">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png</Icon>
+        <Name>Xiangling</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Trulla.png</ConstellationIcon>
+            <ConstellationName>Trulla</ConstellationName>
+        </Constellation>
+        <Birthday>November 2</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0022">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png</Icon>
+        <Name>Xingqiu</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Fabulae_Textile.png</ConstellationIcon>
+            <ConstellationName>Fabulae Textile</ConstellationName>
+        </Constellation>
+        <Birthday>October 9</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0023">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png</Icon>
+        <Name>Klee</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Trifolium.png</ConstellationIcon>
+            <ConstellationName>Trifolium</ConstellationName>
+        </Constellation>
+        <Birthday>July 27</Birthday>
+        <Version>1.0</Version>
+    </Character>
+
+    <Character id = "0024">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png</Icon>
+        <Name>Diona</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/16/Feles.png</ConstellationIcon>
+            <ConstellationName>Feles</ConstellationName>
+        </Constellation>
+        <Birthday>January 18</Birthday>
+        <Version>1.1</Version>
+    </Character>
+
+    <Character id = "0025">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png</Icon>
+        <Name>Tartaglia</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon></RegionIcon>
+            <RegionName>Snezhnaya</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Monoceros_Caeli.png</ConstellationIcon>
+            <ConstellationName>Monoceros Caeli</ConstellationName>
+        </Constellation>
+        <Birthday>July 20</Birthday>
+        <Version>1.1</Version>
+    </Character>
+
+    <Character id = "0026">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png</Icon>
+        <Name>Xinyan</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Fila_Ignium.png</ConstellationIcon>
+            <ConstellationName>Fila Ignium</ConstellationName>
+        </Constellation>
+        <Birthday>October 16</Birthday>
+        <Version>1.1</Version>
+    </Character>
+    
+    <Character id = "0027">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png</Icon>
+        <Name>Zhongli</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Lapis_Dei.png</ConstellationIcon>
+            <ConstellationName>Lapis Dei</ConstellationName>
+        </Constellation>
+        <Birthday>December 31</Birthday>
+        <Version>1.1</Version>
+    </Character>
+
+    <Character id = "0028">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png</Icon>
+        <Name>Albedo</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/28/Princeps_Cretaceus.png</ConstellationIcon>
+            <ConstellationName>Princeps_Cretaceus   </ConstellationName>
+        </Constellation>
+        <Birthday>September 13</Birthday>
+        <Version>1.2</Version>
+    </Character>
+
+    <Character id = "0029">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png</Icon>
+        <Name>Ganyu</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Sinae_Unicornis.png</ConstellationIcon>
+            <ConstellationName>Sinae Unicornis</ConstellationName>
+        </Constellation>
+        <Birthday>December 2</Birthday>
+        <Version>1.2</Version>
+    </Character>
+
+    <Character id = "0030">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png</Icon>
+        <Name>Xiao</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/98/Alatus_Nemeseos.png</ConstellationIcon>
+            <ConstellationName>Alatus Nemeseos</ConstellationName>
+        </Constellation>
+        <Birthday>April 17</Birthday>
+        <Version>1.3</Version>
+    </Character>
+
+    <Character id = "0031">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png</Icon>
+        <Name>Hu Tao</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/85/Papilio_Charontis.png</ConstellationIcon>
+            <ConstellationName>Papilio Charontis</ConstellationName>
+        </Constellation>
+        <Birthday>July 15</Birthday>
+        <Version>1.3</Version>
+    </Character>
+
+    <Character id = "0032">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png</Icon>
+        <Name>Rosaria</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/af/Spinea_Corona.png</ConstellationIcon>
+            <ConstellationName>Spinea Corona</ConstellationName>
+        </Constellation>
+        <Birthday>January 24</Birthday>
+        <Version>1.5</Version>
+    </Character>
+
+    <Character id = "0033">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png</Icon>
+        <Name>Yanfei</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Bestia_Iustitia.png</ConstellationIcon>
+            <ConstellationName>Bestia Iustitia</ConstellationName>
+        </Constellation>
+        <Birthday>July 28</Birthday>
+        <Version>1.5</Version>
+    </Character>
+
+    <Character id = "0034">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png</Icon>
+        <Name>Eula</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Aphros_Delos.png</ConstellationIcon>
+            <ConstellationName>Aphros Delos</ConstellationName>
+        </Constellation>
+        <Birthday>October 25</Birthday>
+        <Version>1.5</Version>
+    </Character>
+
+    <Character id = "0035">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png</Icon>
+        <Name>Kaedehara Kazuha</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Acer_Palmatum.png</ConstellationIcon>
+            <ConstellationName>Acer Palmatum</ConstellationName>
+        </Constellation>
+        <Birthday>October 29</Birthday>
+        <Version>1.6</Version>
+    </Character>
+
+    <Character id = "0036">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png</Icon>
+        <Name>Kamisato Ayaka</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/3/39/Grus_Nivis.png</ConstellationIcon>
+            <ConstellationName>Grus Nivis</ConstellationName>
+        </Constellation>
+        <Birthday>September 28</Birthday>
+        <Version>2.0</Version>
+    </Character>
+
+    <Character id = "0037">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png</Icon>
+        <Name>Sayu</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Nyctereutes_Minor.png</ConstellationIcon>
+            <ConstellationName>Nyctereutes_Minor</ConstellationName>
+        </Constellation>
+        <Birthday>October 19</Birthday>
+        <Version>2.0</Version>
+    </Character>
+
+    <Character id = "0038">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png</Icon>
+        <Name>Yoimiya</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Carassius_Auratus.png</ConstellationIcon>
+            <ConstellationName>Carassius Auratus</ConstellationName>
+        </Constellation>
+        <Birthday>June 21</Birthday>
+        <Version>2.0</Version>
+    </Character>
+
+    <Character id = "0039">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Aloy_Icon.png</Icon>
+        <Name>Aloy</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon></RegionIcon>
+            <RegionName>None</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Nora_Fortis.png</ConstellationIcon>
+            <ConstellationName>Nora Fortis</ConstellationName>
+        </Constellation>
+        <Birthday>April 4</Birthday>
+        <Version>2.1</Version>
+    </Character>
+
+    <Character id = "0040">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png</Icon>
+        <Name>Kujou Sara</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/84/Flabellum.png</ConstellationIcon>
+            <ConstellationName>Flabellum</ConstellationName>
+        </Constellation>
+        <Birthday>July 14</Birthday>
+        <Version>2.1</Version>
+    </Character>
+
+    <Character id = "0041">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png</Icon>
+        <Name>Raiden Shogun</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/79/Imperatrix_Umbrosa.png</ConstellationIcon>
+            <ConstellationName>Imperatrix Umbrosa</ConstellationName>
+        </Constellation>
+        <Birthday>June 26</Birthday>
+        <Version>2.1</Version>
+    </Character>
+
+    <Character id = "0042">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png</Icon>
+        <Name>Sangonomiya Kokomi</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Dracaena_Somnolenta.png</ConstellationIcon>
+            <ConstellationName>Dracaena Somnolenta</ConstellationName>
+        </Constellation>
+        <Birthday>February 22</Birthday>
+        <Version>2.1</Version>
+    </Character>
+
+    <Character id = "0043">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png</Icon>
+        <Name>Thoma</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Rubeum_Scutum.png</ConstellationIcon>
+            <ConstellationName>Rubeum   Scutum</ConstellationName>
+        </Constellation>
+        <Birthday>January 9</Birthday>
+        <Version>2.2</Version>
+    </Character>
+
+    <Character id = "0044">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Arataki_Itto_Icon.png</Icon>
+        <Name>Arataki Itto</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Taurus_Iracundus.png</ConstellationIcon>
+            <ConstellationName>Taurus Iracundus</ConstellationName>
+        </Constellation>
+        <Birthday>June 1</Birthday>
+        <Version>2.3</Version>
+    </Character>
+
+    <Character id = "0045">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png</Icon>
+        <Name>Gorou</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Canis_Bellatoris.png</ConstellationIcon>
+            <ConstellationName>Canis Bellatoris</ConstellationName>
+        </Constellation>
+        <Birthday>May 18</Birthday>
+        <Version>2.3</Version>
+    </Character>
+
+    <Character id = "0046">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png</Icon>
+        <Name>Shenhe</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/04/Crista_Doloris.png</ConstellationIcon>
+            <ConstellationName>Crista Doloris</ConstellationName>
+        </Constellation>
+        <Birthday>March 10</Birthday>
+        <Version>2.4</Version>
+    </Character>
+
+    <Character id = "0047">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png</Icon>
+        <Name>Yun Jin</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Opera_Grandis.png</ConstellationIcon>
+            <ConstellationName>Opera Grandis</ConstellationName>
+        </Constellation>
+        <Birthday>May 21</Birthday>
+        <Version>2.4</Version>
+    </Character>
+
+    <Character id = "0048">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png</Icon>
+        <Name>Yae Miko</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Divina_Vulpes.png</ConstellationIcon>
+            <ConstellationName>Divina Vulpes</ConstellationName>
+        </Constellation>
+        <Birthday>June 27</Birthday>
+        <Version>2.5</Version>
+    </Character>
+
+    <Character id = "0049">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png</Icon>
+        <Name>Kamisato Ayato</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/01/Cypressus_Custos.png</ConstellationIcon>
+            <ConstellationName>Cypressus Custos</ConstellationName>
+        </Constellation>
+        <Birthday>March 26</Birthday>
+        <Version>2.6</Version>
+    </Character>
+
+    <Character id = "0050">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png</Icon>
+        <Name>Yelan</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Umbrabilis_Orchis.png</ConstellationIcon>
+            <ConstellationName>Umbrabilis Orchis</ConstellationName>
+        </Constellation>
+        <Birthday>April 20</Birthday>
+        <Version>2.7</Version>
+    </Character>
+
+    <Character id = "0051">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png</Icon>
+        <Name>Kuki Shinobu</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Tribulatio_Demptio.png</ConstellationIcon>
+            <ConstellationName>Tribulatio Demptio</ConstellationName>
+        </Constellation>
+        <Birthday>July 27</Birthday>
+        <Version>2.7</Version>
+    </Character>
+
+    <Character id = "0052">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png</Icon>
+        <Name>Shikanoin Heizou</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/27/Cervus_Minor.png</ConstellationIcon>
+            <ConstellationName>Cervus Minor</ConstellationName>
+        </Constellation>
+        <Birthday>July 24</Birthday>
+        <Version>2.8</Version>
+    </Character>
+
+    <Character id = "0053">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png</Icon>
+        <Name>Collei</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Leptailurus_Cervarius.png</ConstellationIcon>
+            <ConstellationName>Leptailurus Cervarius</ConstellationName>
+        </Constellation>
+        <Birthday>May 8</Birthday>
+        <Version>3.0</Version>
+    </Character>
+
+    <Character id = "0054">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png</Icon>
+        <Name>Tighnari</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/6/65/Vulpes_Zerda.png</ConstellationIcon>
+            <ConstellationName>Vulpes Zerda</ConstellationName>
+        </Constellation>
+        <Birthday>December 29</Birthday>
+        <Version>3.0</Version>
+    </Character>
+
+    <Character id = "0055">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png</Icon>
+        <Name>Dori</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Magicae_Lucerna.png</ConstellationIcon>
+            <ConstellationName>Magicae Lucerna</ConstellationName>
+        </Constellation>
+        <Birthday>December 21</Birthday>
+        <Version>3.0</Version>
+    </Character>
+
+    <Character id = "0056">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png</Icon>
+        <Name>Candace</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/13/Sagitta_Scutum.png</ConstellationIcon>
+            <ConstellationName>Sagitta Scutum</ConstellationName>
+        </Constellation>
+        <Birthday>May 3</Birthday>
+        <Version>3.1</Version>
+    </Character>
+
+    <Character id = "0057">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png</Icon>
+        <Name>Cyno</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/59/Lupus_Aureus.png</ConstellationIcon>
+            <ConstellationName>Lupus Aureus</ConstellationName>
+        </Constellation>
+        <Birthday>June 23</Birthday>
+        <Version>3.1</Version>
+    </Character>
+
+    <Character id = "0058">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png</Icon>
+        <Name>Nilou</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Lotos_Somno.png</ConstellationIcon>
+            <ConstellationName>Lotos Somno</ConstellationName>
+        </Constellation>
+        <Birthday>December 3</Birthday>
+        <Version>3.1</Version>
+    </Character>
+
+    <Character id = "0059">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png</Icon>
+        <Name>Nahida</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Sapientia_Oromasdis.png</ConstellationIcon>
+            <ConstellationName>Sapientia Oromasdis</ConstellationName>
+        </Constellation>
+        <Birthday>October 27</Birthday>
+        <Version>3.2</Version>
+    </Character>
+
+    <Character id = "0060">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png</Icon>
+        <Name>Layla</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Luscinia.png</ConstellationIcon>
+            <ConstellationName>Luscinia</ConstellationName>
+        </Constellation>
+        <Birthday>December 19</Birthday>
+        <Version>3.2</Version>
+    </Character>
+
+    <Character id = "0061">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png</Icon>
+        <Name>Faruzan</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Flosculi_Implexi.png</ConstellationIcon>
+            <ConstellationName>Flosculi Implexi</ConstellationName>
+        </Constellation>
+        <Birthday>August 20</Birthday>
+        <Version>3.3</Version>
+    </Character>
+
+    <Character id = "0062">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png</Icon>
+        <Name>Wanderer</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/3/30/Peregrinus.png</ConstellationIcon>
+            <ConstellationName>Peregrinus</ConstellationName>
+        </Constellation>
+        <Birthday>January 3</Birthday>
+        <Version>3.3</Version>
+    </Character>
+
+    <Character id = "0063">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Alhaitham_Icon.png</Icon>
+        <Name>Alhaitham</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/85/Vultur_Volans.png</ConstellationIcon>
+            <ConstellationName>Vultur Volans</ConstellationName>
+        </Constellation>
+        <Birthday>February 11</Birthday>
+        <Version>3.4</Version>
+    </Character>
+
+    <Character id = "0064">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png</Icon>
+        <Name>Yaoyao</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Osmanthus.png</ConstellationIcon>
+            <ConstellationName>Osmanthus</ConstellationName>
+        </Constellation>
+        <Birthday>March 6</Birthday>
+        <Version>3.4</Version>
+    </Character>
+
+    <Character id = "0065">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png</Icon>
+        <Name>Dehya</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Mantichora.png</ConstellationIcon>
+            <ConstellationName>Mantichora</ConstellationName>
+        </Constellation>
+        <Birthday>April 7</Birthday>
+        <Version>3.5</Version>
+    </Character>
+
+    <Character id = "0066">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png</Icon>
+        <Name>Mika</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Mondstadt_Emblem_Night.png</RegionIcon>
+            <RegionName>Mondstadt</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Palumbus.png</ConstellationIcon>
+            <ConstellationName>Palumbus</ConstellationName>
+        </Constellation>
+        <Birthday>August 11</Birthday>
+        <Version>3.5</Version>
+    </Character>
+
+    <Character id = "0067">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Baizhu_Icon.png</Icon>
+        <Name>Baizhu</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/40/Lagenaria.png</ConstellationIcon>
+            <ConstellationName>Lagenaria</ConstellationName>
+        </Constellation>
+        <Birthday>April 25</Birthday>
+        <Version>3.6</Version>
+    </Character>
+
+    <Character id = "0068">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png</Icon>
+        <Name>Kaveh</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/45/Paradisaea.png</ConstellationIcon>
+            <ConstellationName>Paradisaea</ConstellationName>
+        </Constellation>
+        <Birthday>July 9</Birthday>
+        <Version>3.6</Version>
+    </Character>
+
+    <Character id = "0069">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png</Icon>
+        <Name>Kirara</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/73/Element_Dendro.svg</ElementIcon>
+            <ElementName>Dendro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/3/34/Arcella.png</ConstellationIcon>
+            <ConstellationName>Arcella</ConstellationName>
+        </Constellation>
+        <Birthday>January 22</Birthday>
+        <Version>3.7</Version>
+    </Character>
+
+    <Character id = "0070">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png</Icon>
+        <Name>Lyney</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/22/Felis_Fuscus.png</ConstellationIcon>
+            <ConstellationName>Felis Fuscus</ConstellationName>
+        </Constellation>
+        <Birthday>February 2</Birthday>
+        <Version>4.0</Version>
+    </Character>
+
+    <Character id = "0071">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png</Icon>
+        <Name>Lynette</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Felis_Alba.png</ConstellationIcon>
+            <ConstellationName>Felis Alba</ConstellationName>
+        </Constellation>
+        <Birthday>February 2</Birthday>
+        <Version>4.0</Version>
+    </Character>
+
+    <Character id = "0072">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png</Icon>
+        <Name>Freminet</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Automaton.png</ConstellationIcon>
+            <ConstellationName>Automaton</ConstellationName>
+        </Constellation>
+        <Birthday>September 24</Birthday>
+        <Version>4.0</Version>
+    </Character>
+
+    <Character id = "0073">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png</Icon>
+        <Name>Neuvilette</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Leviathan_Judicator.png</ConstellationIcon>
+            <ConstellationName>Leviathan Judicator</ConstellationName>
+        </Constellation>
+        <Birthday>December 18</Birthday>
+        <Version>4.1</Version>
+    </Character>
+
+    <Character id = "0074">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Wriothesley_Icon.png</Icon>
+        <Name>Wriothesley</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/45/Cerberus.png</ConstellationIcon>
+            <ConstellationName>Cerberus</ConstellationName>
+        </Constellation>
+        <Birthday>November 23</Birthday>
+        <Version>4.1</Version>
+    </Character>
+
+    <Character id = "0075">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Furina_Icon.png</Icon>
+        <Name>Furina</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaie</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Animula_Choragi.png</ConstellationIcon>
+            <ConstellationName>Animula Choragi</ConstellationName>
+        </Constellation>
+        <Birthday>October 13</Birthday>
+        <Version>4.2</Version>
+    </Character>
+
+    <Character id = "0076">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Charlotte_Icon.png</Icon>
+        <Name>Charlotte</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/7/72/Element_Cryo.svg</ElementIcon>
+            <ElementName>Cryo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Hualina_Veritas.png</ConstellationIcon>
+            <ConstellationName>Hualina Veritas</ConstellationName>
+        </Constellation>
+        <Birthday>April 10</Birthday>
+        <Version>4.2</Version>
+    </Character>
+
+    <Character id = "0077">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Navia_Icon.png</Icon>
+        <Name>Navia</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/20/Rosa_Multiflora.png</ConstellationIcon>
+            <ConstellationName>Rosa Multiflora</ConstellationName>
+        </Constellation>
+        <Birthday>August 16</Birthday>
+        <Version>4.3</Version>
+    </Character>
+
+    <Character id = "0078">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Chevreuse_Icon.png</Icon>
+        <Name>Chevreuse</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/4/45/Sclopetum_Ensiferum.png</ConstellationIcon>
+            <ConstellationName>Sclopetum Ensiferum</ConstellationName>
+        </Constellation>
+        <Birthday>January 10</Birthday>
+        <Version>4.3</Version>
+    </Character>
+
+    <Character id = "0079">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/7/77/Gaming_Icon.png</Icon>
+        <Name>Gaming</Name>
+        <Quality>4-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/51/Weapon-class-claymore-icon.png</WeaponIcon>
+            <WeaponName>Claymore</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/5/57/Leo_Expergiscens.png</ConstellationIcon>
+            <ConstellationName>Leo Expergiscens</ConstellationName>
+        </Constellation>
+        <Birthday>December 22</Birthday>
+        <Version>4.4</Version>
+    </Character>
+
+    <Character id = "0080">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Xianyun_Icon.png</Icon>
+        <Name>Xianyun</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/10/Element_Anemo.svg</ElementIcon>
+            <ElementName>Anemo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/02/Weapon-class-catalyst-icon.png</WeaponIcon>
+            <WeaponName>Catalyst</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Liyue_Emblem_Night.png</RegionIcon>
+            <RegionName>Liyue</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/d/df/Grus_Serena.png</ConstellationIcon>
+            <ConstellationName>Grus Serena</ConstellationName>
+        </Constellation>
+        <Birthday>April 11</Birthday>
+        <Version>4.4</Version>
+    </Character>
+
+    <Character id = "0081">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/8/88/Chiori_Icon.png</Icon>
+        <Name>Chiori</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Element_Geo.svg</ElementIcon>
+            <ElementName>Geo</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Inazuma_Emblem_Night.png</RegionIcon>
+            <RegionName>Inazuma</RegionName>
+        </Region>   
+        <Constellation>
+            <ConstellationIcon></ConstellationIcon>
+            <ConstellationName>Cisoria</ConstellationName>
+        </Constellation>
+        <Birthday></Birthday>
+        <Version>4.5</Version>
+    </Character>
+
+</Characters>
+
+
+
+
+<!--Format
+
+    <Character id = "#">
+        <Icon>#</Icon>
+        <Name>#</Name>
+        <Quality>#</Quality>
+        <Element>
+            <ElementIcon>#</ElementIcon>
+            <ElementName>#</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>#</WeaponIcon>
+            <WeaponName>#</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>#</RegionIcon>
+            <RegionName>#</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>#</ConstellationIcon>
+            <ConstellationName>#</ConstellationName>
+        </Constellation>
+        <Birthday>#</Birthday>
+        <Version>#</Version>
+    </Character>
+
+-->

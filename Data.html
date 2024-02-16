@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<HTML>
+    <HEAD>
+        <TITLE>Activity 3 HTML, XML, CSS, JavaScript: Genshin Impact Characters</TITLE>
+        <style>
+            table, th, tr, td{
+                border: 1px solid black;
+                text-align: center;
+                text-align: center;
+                margin-left: 1.8cm;
+                margin-top: 1cm;
+            }
+
+            th{
+                background-color: #21242D;
+                color: #ffffff;
+                padding: 10px 25px;
+            }
+
+            tr{
+                background-color: #15171C;
+                color:white;
+            }
+
+            tr:hover{
+                background-color: white;
+                color:black;
+                transition: 0.5s;
+                cursor: pointer;
+            }
+
+            img{
+                border: 1px solid black;
+                width: 64px;
+                border-radius: 100px;
+            }
+
+            body{
+                background-color: #000000;
+            }
+
+
+
+        </style>
+    </HEAD>
+
+    <BODY>
+
+        <table id ="TableID">
+            <th>ID</th>
+            <th>Icon</th>
+            <th>Name</th>
+            <th>Quality</th>
+            <th>Element Icon</th>
+            <th>Element</th>
+            <th>Weapon Icon</th>
+            <th>Weapon</th>
+            <th>Region Icon</th>
+            <th>Region</th>
+            <th>Constellation Icon</th>
+            <th>Constellation</th>
+            <th>Birthday</th>
+            <th>Version</th>
+        </table>
+    </BODY>
+
+    <script>
+        var xhttp = new XMLHttpRequest();
+
+        xhttp.onreadystatechange = function(){
+            if(this.readyState === 4 && this.status === 200){
+                useXML(this);
+            }
+        }
+
+        xhttp.open("GET", "Data.xml",true);
+        xhttp.send();
+
+        function useXML(xml){
+
+            var doc = xml.responseXML;
+            var root = doc.firstElementChild;
+            var Characters = root.children;
+            var table = document.getElementById("TableID").children[0];
+
+
+            for(var Character of Characters){
+                
+                //XML Section
+                var CharID = Character.getAttribute("id");
+                var Icon = Character.children[0].innerHTML;
+                var Name = Character.children[1].innerHTML;
+                var Quality = Character.children[2].innerHTML;
+                var ElementIcon = Character.children[3].children[0].innerHTML;
+                var Element = Character.children[3].children[1].innerHTML;
+                var WeaponIcon = Character.children[4].children[0].innerHTML;
+                var Weapon = Character.children[4].children[1].innerHTML;
+                var RegionIcon = Character.children[5].children[0].innerHTML;
+                var Region = Character.children[5].children[1].innerHTML;
+                var ConstellationIcon = Character.children[6].children[0].innerHTML;
+                var Constellation = Character.children[6].children[1].innerHTML;
+                var Birthday = Character.children[7].innerHTML;
+                var Version = Character.children[8].innerHTML;
+                
+                
+
+                //Node Section
+                var tr = document.createElement("tr");
+                table.appendChild(tr);
+
+
+
+               //TD Section
+                var txtID = document.createElement("td");
+                var icon = document.createElement("img");
+                var txtName = document.createElement("td");
+                var txtQuality = document.createElement("td");
+                var elementicon = document.createElement("img");
+                var txtElement = document.createElement("td"); 
+                var weaponicon = document.createElement("img");
+                var txtWeapon = document.createElement("td");
+                var regionicon = document.createElement("img");
+                var txtRegion = document.createElement("td");
+                var constellationicon = document.createElement("img");
+                var txtConstellation = document.createElement("td");
+                var txtBirthday = document.createElement("td");
+                var txtVersion = document.createElement("td");
+                
+
+                //Image Section
+                icon.setAttribute("src", Icon);
+                elementicon.setAttribute("src", ElementIcon);
+                weaponicon.setAttribute("src", WeaponIcon);
+                regionicon.setAttribute("src", RegionIcon);
+                constellationicon.setAttribute("src", ConstellationIcon);
+                
+               
+                //Declaration Section
+                txtID.innerHTML = CharID;
+                txtName.innerHTML =  Name;
+                txtQuality.innerHTML = Quality;
+                txtElement.innerHTML = " " + Element;
+                txtWeapon.innerHTML = " " + Weapon;
+                txtRegion.innerHTML = " " + Region;
+                txtConstellation.innerHTML = " " + Constellation;
+                txtBirthday.innerHTML = Birthday;
+                txtVersion.innerHTML = Version;
+
+
+                //Append Section
+                tr.appendChild(txtID);
+                tr.appendChild(icon);
+                tr.appendChild(txtName);
+                tr.appendChild(txtQuality);
+                tr.appendChild(elementicon);
+                tr.appendChild(txtElement);
+                tr.appendChild(weaponicon);
+                tr.appendChild(txtWeapon);
+                tr.appendChild(regionicon);
+                tr.appendChild(txtRegion);
+                tr.appendChild(constellationicon);
+                tr.appendChild(txtConstellation);
+                tr.appendChild(txtBirthday);
+                tr.appendChild(txtVersion);
+
+
+
+            }
+
+
+        }
+
+    </script>
+
+
+</HTML>
