@@ -669,7 +669,7 @@
         </Region>
         <Constellation>
             <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/28/Princeps_Cretaceus.png</ConstellationIcon>
-            <ConstellationName>Princeps_Cretaceus   </ConstellationName>
+            <ConstellationName>Princeps Cretaceus</ConstellationName>
         </Constellation>
         <Birthday>September 13</Birthday>
         <Version>1.2</Version>
@@ -885,7 +885,7 @@
         </Region>
         <Constellation>
             <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Nyctereutes_Minor.png</ConstellationIcon>
-            <ConstellationName>Nyctereutes_Minor</ConstellationName>
+            <ConstellationName>Nyctereutes Minor</ConstellationName>
         </Constellation>
         <Birthday>October 19</Birthday>
         <Version>2.0</Version>
