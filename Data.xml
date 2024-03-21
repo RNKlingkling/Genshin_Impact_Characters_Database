@@ -1940,11 +1940,35 @@
             <RegionName>Inazuma</RegionName>
         </Region>   
         <Constellation>
-            <ConstellationIcon></ConstellationIcon>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Cisoria.png</ConstellationIcon>
             <ConstellationName>Cisoria</ConstellationName>
         </Constellation>
-        <Birthday></Birthday>
+        <Birthday>August 17</Birthday>
         <Version>4.5</Version>
+    </Character>
+
+    <Character id = "0082">
+        <Icon></Icon>
+        <Name>Arlecchino</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Element_Pyro.svg</ElementIcon>
+            <ElementName>Pyro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/91/Weapon-class-polearm-icon.png</WeaponIcon>
+            <WeaponName>Polearm</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon></RegionIcon>
+            <RegionName>Snezhnaya</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon></ConstellationIcon>
+            <ConstellationName></ConstellationName>
+        </Constellation>
+        <Birthday></Birthday>
+        <Version>4.6</Version>
     </Character>
 
 </Characters>
