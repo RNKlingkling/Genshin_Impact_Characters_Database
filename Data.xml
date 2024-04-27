@@ -1996,51 +1996,51 @@
     </Character>
 
      <Character id = "0084">
-        <Icon>#</Icon>
-        <Name>#</Name>
-        <Quality>#</Quality>
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/90/Sethos_Icon.png</Icon>
+        <Name>Sethos</Name>
+        <Quality>4-Star</Quality>
         <Element>
-            <ElementIcon>#</ElementIcon>
-            <ElementName>#</ElementName>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
         </Element>
         <Weapon>
-            <WeaponIcon>#</WeaponIcon>
-            <WeaponName>#</WeaponName>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
         </Weapon>
         <Region>
-            <RegionIcon>#</RegionIcon>
-            <RegionName>#</RegionName>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Sumeru_Emblem_Night.png</RegionIcon>
+            <RegionName>Sumeru</RegionName>
         </Region>
         <Constellation>
-            <ConstellationIcon>#</ConstellationIcon>
-            <ConstellationName>#</ConstellationName>
+            <ConstellationIcon></ConstellationIcon>
+            <ConstellationName>Basileos Delta</ConstellationName>
         </Constellation>
-        <Birthday>#</Birthday>
-        <Version>#</Version>
+        <Birthday></Birthday>
+        <Version>4.7</Version>
     </Character>
 
      <Character id = "0085">
-        <Icon>#</Icon>
-        <Name>#</Name>
-        <Quality>#</Quality>
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/3/37/Sigewinne_Icon.png</Icon>
+        <Name>Sigewinne</Name>
+        <Quality>4-Star</Quality>
         <Element>
-            <ElementIcon>#</ElementIcon>
-            <ElementName>#</ElementName>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/8/80/Element_Hydro.svg</ElementIcon>
+            <ElementName>Hydro</ElementName>
         </Element>
         <Weapon>
-            <WeaponIcon>#</WeaponIcon>
-            <WeaponName>#</WeaponName>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/97/Weapon-class-bow-icon.png</WeaponIcon>
+            <WeaponName>Bow</WeaponName>
         </Weapon>
         <Region>
-            <RegionIcon>#</RegionIcon>
-            <RegionName>#</RegionName>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
         </Region>
         <Constellation>
-            <ConstellationIcon>#</ConstellationIcon>
-            <ConstellationName>#</ConstellationName>
+            <ConstellationIcon></ConstellationIcon>
+            <ConstellationName>Nereides</ConstellationName>
         </Constellation>
-        <Birthday>#</Birthday>
-        <Version>#</Version>
+        <Birthday></Birthday>
+        <Version>4.7</Version>
     </Character>
 
     
