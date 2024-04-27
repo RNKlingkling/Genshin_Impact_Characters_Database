@@ -1948,7 +1948,7 @@
     </Character>
 
     <Character id = "0082">
-        <Icon></Icon>
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Arlecchino_Icon.png</Icon>
         <Name>Arlecchino</Name>
         <Quality>5-Star</Quality>
         <Element>
@@ -1964,12 +1964,86 @@
             <RegionName>Snezhnaya</RegionName>
         </Region>
         <Constellation>
-            <ConstellationIcon></ConstellationIcon>
-            <ConstellationName></ConstellationName>
+            <ConstellationIcon>https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Ignis_Purgatorius.png</ConstellationIcon>
+            <ConstellationName>Ignis Purgatorius</ConstellationName>
         </Constellation>
-        <Birthday></Birthday>
+        <Birthday>August 22</Birthday>
         <Version>4.6</Version>
     </Character>
+
+     <Character id = "0083">
+        <Icon>https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Clorinde_Icon.png</Icon>
+        <Name>Clorinde</Name>
+        <Quality>5-Star</Quality>
+        <Element>
+            <ElementIcon>https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Element_Electro.svg</ElementIcon>
+            <ElementName>Electro</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Weapon-class-sword-icon.png</WeaponIcon>
+            <WeaponName>Sword</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>https://static.wikia.nocookie.net/gensin-impact/images/0/06/Fontaine_Emblem_Night.png</RegionIcon>
+            <RegionName>Fontaine</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon></ConstellationIcon>
+            <ConstellationName>Rapperia</ConstellationName>
+        </Constellation>
+        <Birthday></Birthday>
+        <Version>4.7</Version>
+    </Character>
+
+     <Character id = "0084">
+        <Icon>#</Icon>
+        <Name>#</Name>
+        <Quality>#</Quality>
+        <Element>
+            <ElementIcon>#</ElementIcon>
+            <ElementName>#</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>#</WeaponIcon>
+            <WeaponName>#</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>#</RegionIcon>
+            <RegionName>#</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>#</ConstellationIcon>
+            <ConstellationName>#</ConstellationName>
+        </Constellation>
+        <Birthday>#</Birthday>
+        <Version>#</Version>
+    </Character>
+
+     <Character id = "0085">
+        <Icon>#</Icon>
+        <Name>#</Name>
+        <Quality>#</Quality>
+        <Element>
+            <ElementIcon>#</ElementIcon>
+            <ElementName>#</ElementName>
+        </Element>
+        <Weapon>
+            <WeaponIcon>#</WeaponIcon>
+            <WeaponName>#</WeaponName>
+        </Weapon>
+        <Region>
+            <RegionIcon>#</RegionIcon>
+            <RegionName>#</RegionName>
+        </Region>
+        <Constellation>
+            <ConstellationIcon>#</ConstellationIcon>
+            <ConstellationName>#</ConstellationName>
+        </Constellation>
+        <Birthday>#</Birthday>
+        <Version>#</Version>
+    </Character>
+
+    
 
 </Characters>
 
